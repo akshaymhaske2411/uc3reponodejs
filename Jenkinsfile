@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "mayankgg2511/batch800uc3nodejscode:v1"
+    dockerimagename = "akshaymhaske2411/devops-k8sproject"
     dockerImage = ""
   }
 
