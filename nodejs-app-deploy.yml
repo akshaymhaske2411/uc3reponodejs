@@ -18,7 +18,8 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: "mayankgg2511/batch825projectrepo:v1"
+        # image: "mayankgg2511/batch825projectrepo:v1" mayank sir changes
+        image: "akshaymhaske2411/devops-k8sproject"
         ports:
           - containerPort: 5000
 ---
