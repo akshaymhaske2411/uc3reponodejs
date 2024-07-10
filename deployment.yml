@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: node-app 
-        image: akshaymhaske2411/batch825projectrepo
+        image: akshaymhaske2411/batch825projectrepo:v1
         ports:
         - containerPort: 3000 
