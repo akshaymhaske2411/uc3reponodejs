@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: node-app 
-        image: akshaymhaske2411/devops-k8sproject
+        image: akshaymhaske2411/batch825projectrepo
         ports:
         - containerPort: 3000 
